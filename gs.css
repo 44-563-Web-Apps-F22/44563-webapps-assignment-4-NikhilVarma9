@@ -26,6 +26,15 @@
 .WOMEN{
     color: rgb(212, 83, 135);
 }
+.All{
+    color:rgb(6, 95, 43);
+}
+.WILFRED{
+    color: rgb(101, 3, 81);
+}
+.POINT{
+    color:brown;
+}
 table,td,th{
     margin: 1px solid black;
     padding: 2px;
